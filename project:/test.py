@@ -17,3 +17,9 @@ class TestSum(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+## The test results are to tell us whether the code ran successfully or not.
+## If it didn't, the test will fail and it'll tell us where it failed so
+## we can go back and fix it. When we run the test again, it should pass
+## if we fixed the problem properly.
